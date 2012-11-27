@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ongl"
+  id="myeclipse.1353852370124"
+  context-root="/ongl"
+  j2ee-spec="5.0"
+  archive="ongl.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
